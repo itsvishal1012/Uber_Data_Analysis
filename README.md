@@ -10,7 +10,7 @@ This project presents a detailed analysis of Uber ride bookings using **Power BI
 - **`uber.pbix`** → Power BI dashboard file containing the analysis and visualizations.  
 - **`Uber Trip Details.xlsx`** → Dataset containing trip-level details such as booking amount, distance, trip type, and timestamps.  
 - **`Location Table.xlsx`** → Dataset with location details for pickup and drop-off points.  
-- **`Screenshot.png`** → Example dashboard view of the analysis.  
+- **`Output.png`** → Example dashboard view of the analysis.  
 
 ---
 
@@ -72,7 +72,7 @@ This project presents a detailed analysis of Uber ride bookings using **Power BI
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/uber-trip-analysis.git
+   git clone https://github.com/itsvishal1012/Uber_Data_Analysis.git
    cd uber-trip-analysis
    ```
 2. Open the Power BI file `uber.pbix` in **Power BI Desktop**.  
@@ -96,7 +96,7 @@ This project presents a detailed analysis of Uber ride bookings using **Power BI
 
 ## 📷 Dashboard Preview  
 
-![Uber Trip Dashboard](Screenshot.png)  
+![Uber Trip Dashboard](Output.png)  
 
 ---
 
@@ -110,6 +110,6 @@ This project presents a detailed analysis of Uber ride bookings using **Power BI
 
 ## 📝 Author  
 
-👤 **Your Name**  
-- 📧 Email: your.email@example.com  
-- 🌐 GitHub: [yourusername](https://github.com/yourusername)  
+👤 **Vishal Saini**  
+- 📧 Email: vishalsaini0328.email@example.com  
+- 🌐 GitHub:(https://github.com/itsvishal1012)  
